@@ -1,0 +1,11 @@
+com\tvsmotor\dealerdata\Model\Order.class
+com\tvsmotor\dealerdata\Controller\OrderController.class
+com\tvsmotor\dealerdata\DealerdataApplication.class
+com\tvsmotor\dealerdata\Model\Item.class
+com\tvsmotor\dealerdata\Model\Dealer.class
+com\tvsmotor\dealerdata\Repository\DealerRepository.class
+com\tvsmotor\dealerdata\Controller\DealerController.class
+com\tvsmotor\dealerdata\Service\OrderService.class
+com\tvsmotor\dealerdata\Repository\OrderRepository.class
+com\tvsmotor\dealerdata\Service\DealerService.class
+com\tvsmotor\dealerdata\config\WebConfig.class
